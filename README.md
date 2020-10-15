@@ -1,3 +1,3 @@
 # personalWebsiteSam
 Personal Website Link:
-https://samsangraula.github.io/samsangraula2/
+https://samsangraula.github.io/personalWebsiteSam/
